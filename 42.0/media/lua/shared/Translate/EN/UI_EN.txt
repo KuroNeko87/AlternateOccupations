@@ -1,0 +1,115 @@
+UI_EN = {
+    UI_prof_formerslave = "Former Slave",
+    UI_profdesc_formerslave = "Overcame hardships and possesses resilience for survival.",
+
+    UI_prof_cultist = "Cultist",
+    UI_profdesc_cultist = "A fervent believer with skills in crafting and self-reliance.",
+
+    UI_prof_peasant = "Peasant",
+    UI_profdesc_peasant = "An agricultural worker with a knack for repair and crafting.",
+
+    UI_prof_clothier = "Clothier",
+    UI_profdesc_clothier = "Expert in tailoring and working with small blades.",
+
+    UI_prof_herbalist = "Herbalist",
+    UI_profdesc_herbalist = "Skilled in medicinal plants and survival foraging.",
+
+    UI_prof_blacksmith = "Blacksmith",
+    UI_profdesc_blacksmith = "Master of metalworking and crafting durable tools.",
+
+    UI_prof_tinkerer = "Tinkerer",
+    UI_profdesc_tinkerer = "A resourceful problem-solver with mechanical expertise.",
+
+    UI_prof_scavenger = "Scavenger",
+    UI_profdesc_scavenger = "A resourceful individual adept at finding and repairing.",
+
+    UI_prof_gatherer = "Gatherer",
+    UI_profdesc_gatherer = "Focused on collecting resources and trapping for survival.",
+
+    UI_prof_hermit = "Hermit",
+    UI_profdesc_hermit = "A lone survivor with extensive wilderness knowledge.",
+
+    UI_prof_hunter = "Hunter",
+    UI_profdesc_hunter = "An experienced tracker and skilled with ranged weapons.",
+
+    UI_prof_raider = "Raider",
+    UI_profdesc_raider = "A ruthless fighter with skills in melee combat and welding.",
+
+    UI_prof_militia = "Militia",
+    UI_profdesc_militia = "A disciplined marksman trained in aiming and reloading.",
+
+    UI_prof_bountyhunter = "Bounty Hunter",
+    UI_profdesc_bountyhunter = "A lethal marksman with unmatched precision and skill.",
+
+    UI_prof_tribesman = "Tribesman",
+    UI_profdesc_tribesman = "A versatile survivalist with expertise in primitive tools.",
+
+    UI_prof_psycho = "Psycho",
+    UI_profdesc_psycho = "A dangerous individual skilled in melee and ranged combat.",
+
+    UI_prof_gladiator = "Gladiator",
+    UI_profdesc_gladiator = "A fierce warrior trained in blades and physical strength.",
+
+    UI_prof_deadbeat = "Deadbeat",
+    UI_profdesc_deadbeat = "Lacks motivation but is open to learning new skills.",
+
+    UI_prof_courier = "Courier",
+    UI_profdesc_courier = "A swift runner with unmatched stamina and fitness.",
+
+    UI_prof_thief = "Thief",
+    UI_profdesc_thief = "A stealthy infiltrator adept at lightfooted movement.",
+
+    UI_prof_merchant = "Travelling Merchant",
+    UI_profdesc_merchant = "Tradesman skilled in maintenance and scavenging.",
+
+    UI_prof_scout = "Scout",
+    UI_profdesc_scout = "A nimble explorer adept at sneaking and electronics.",
+
+    UI_prof_dancer = "Exotic Dancer",
+    UI_profdesc_dancer = "Graceful and nimble with excellent physical fitness.",
+
+    UI_prof_educator = "Educator",
+    UI_profdesc_educator = "A knowledgeable teacher with diverse survival skills.",
+    
+    UI_prof_homesteader = "Homesteader",
+    UI_profdesc_homesteader = "An expert in farming, cooking, and self-sustainability.",
+
+    UI_prof_potter = "Potter",
+    UI_profdesc_potter = "A master of clay and earth, creating art while thriving in nature."
+ 
+    UI_prof_musician = "Musician",
+    UI_profdesc_musician = "A virtuoso with an ear for melodies and a knack for captivating audiences."
+
+    UI_prof_priest = "Priest",
+    UI_profdesc_priest = "A compassionate leader, skilled in bringing light and guidance to the world."
+    
+    UI_prof_doomsdayPrepper = "Doomsday Prepper",
+    UI_profdesc_doomsdayPrepper = "Prepared for any disaster with versatile survival skills.",
+    
+    UI_trait_Sober = "Sober",
+    UI_trait_SoberDesc = "Can't drink alcohol or smoke.",
+
+    UI_trait_Mechanics3 = "Amateur Mechanic",
+    UI_trait_Mechanics3Desc = "Can repair all vehicle types without having to read any recipe magazines.",
+
+    UI_trait_Solitary = "Solitary",
+    UI_trait_SolitaryDesc = "Gets paniced when around people.",
+
+    UI_trait_Brawler2 = "Brawler",
+    UI_trait_Brawler2Desc = "Used to getting into trouble.",
+
+    UI_trait_Untalented = "Untalented",
+    UI_trait_UntalentedDesc = "Locked out from most talent or profession related traits.",
+
+    UI_trait_Pathfinder = "Pathfinder",
+    UI_trait_PathfinderDesc = "Start the game with some important maps of Knox County.",
+
+    UI_trait_Trader = "Trader",
+    UI_trait_TraderDesc = "Always has some money on hand and knows how to make makeshift communication devices in case they get into trouble.",
+
+    UI_trait_Pretty = "Pretty",
+    UI_trait_PrettyDesc = "My appearance is my capital in this world.",
+
+    UI_trait_Primitive = "Primitive",
+    UI_trait_PrimitiveDesc = "Can't use traits that are somehow related to old world technology or culture.",
+}
